@@ -5,10 +5,10 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "monospace:pixelsize=20:antialias=true";
+static char *font = "monospace:size=14:antialias=true";
 /* Spare fonts */
 static char *font2[] = {
-	"emoji:pixelsize=20:antialias=true",
+	"emoji:size=14:antialias=true",
 };
 static int borderpx = 2;
 
